@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 원본 데이터 파일 (절대 올리지 않음)
+dataset_coded.xlsx
+
+# 파이썬 캐시 파일
+__pycache__/
+
+# 주피터 노트북 체크포인트
+.ipynb_checkpoints/
+
+# 결과물 파일 (로컬에서만 생성)
+*.zip
+hb_results.xlsx
