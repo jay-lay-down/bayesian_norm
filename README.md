@@ -61,10 +61,16 @@ $$
 ## 대시보드 구축단계
 📍VBA Chart 구축
 
+# 의의
+📍수집된 데이터 n수가 적은 경우, 추가 데이터 수집 없이 원래 있는 데이터를 활용할 수 있음\
+📍정성데이터를 통해 정량데이터를 보완 가능(데이터 증강)\
+📍실제로, n수가 적은 데이터의 왜곡된 결과를 타당하게 보정 가능
+
 # 한계/보완점
 📍텍스트마이닝 시, Dictionary finetuning을 사람이 해야 해서 비효율적\
 📍보완방법 고려: Transformer 등 LLM 학습을 통한 Dictionary 분류 자동화 고려
 
-# 대시보드 불러오기
+# 대시보드 완성 예시
+https://velog.io/@jaylaydown/BayesianAdjectiveNorm
+![이미지 설명](https://velog.velcdn.com/images/jaylaydown/post/37763cff-3be5-44d6-ba49-589cffdab94b/image.png)
 
-# 예시이미지
